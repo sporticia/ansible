@@ -1,0 +1,12 @@
+primary.moocow.local
+worker1.moocow.local
+worker2.moocow.local
+worker3.moocow.local
+
+[primary]
+primary.moocow.local
+
+[workers]
+worker1.moocow.local
+worker2.moocow.local
+worker3.moocow.local
